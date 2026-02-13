@@ -1,4 +1,4 @@
-# 📌 Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
 A modern, responsive personal portfolio website built using React + Vite + Tailwind CSS to showcase my projects, internships, certifications, and technical skills.
 
