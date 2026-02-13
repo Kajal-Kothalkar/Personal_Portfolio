@@ -8,7 +8,7 @@ This portfolio reflects my journey as an aspiring Full Stack Web Developer and A
 
 🔗 View Portfolio Live
 
-([Add your deployed link here — Vercel / Netlify](https://kajal-kothalkar.netlify.app/))
+(https://kajal-kothalkar.netlify.app/)
 
 🛠️ Tech Stack
 
